@@ -1,0 +1,21 @@
+{
+  "name": "entendr",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/node": "^18.17.1",
+    "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.7.2"
+  }
+}
