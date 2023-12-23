@@ -13,10 +13,13 @@ I don't procrastinate, but I get anxious about the work I have to do,
 whether I will be able to complete it in time and to standard,
 and other non-issues.
 
+> What
+> Does this look like?
+
 This was not a problem when I could comfortably finish my work
 anyway. But I find myself with more work lately than I am used to,
 and I'm realizing that I need a sustainable way to organize and prioritize effectively
-and efficiently
+and efficiently. This.
 
 &mdash; [Amittai][amittai]
 

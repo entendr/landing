@@ -2,30 +2,28 @@
 title: entendr.
 ---
 
+
+::div
+---
+class: "prose prose-slate dark:prose-invert"
+---
+
 ::h1
 ---
 class: "mt-14 font-display text-4xl/tight font-light text-white"
 ---
-living with intentionality.<br>**<span class="font-bold text-red-500">entendr.</span>**
+living with intentionality. :br :highlight{class="font-bold"}[entendr.]
 ::
 
-::p
----
-class: "prose prose-slate dark:prose-invert"
----
-<br>
-I have had crippling anxiety for a long time, and
-I've noticed that some of my friends share similar reflexes.<br>
+People who experience anxiety have to be very intentional with their time.
 
-But&mdash;what does it mean to have anxiety?
-How does one live with it?
-I have tiny frameworks that help me;
-keeping a daily journal,
-planning out my days by the minute, etc.
+But&mdash;_**what does that mean?**_  
 
-I find such fastidiousness exhausting.<br>
-<span class="text-red-500">entendr.</span>
-is my attempt to document, design, and build around
+For me, it means fastidiously planning out my day,
+keeping inventory, and sticking to considered routines.
+Often, this means tedious, repetitive work.
+
+:highlight[entendr.] is my attempt to document, design, and build around
 these frameworks for an easier life for myself.
 Hopefully, for others too.
 
