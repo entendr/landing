@@ -7,6 +7,9 @@ routeId: "first-idea"
 
 # Systems, Not Goals
 
+Like most other people, I struggle whenever I try to explain
+my anxiety to others. Yes, have
+
 I've grappled with crippling anxiety for as far as I remember.
 I would get around `.3` as much work done.
 I don't procrastinate, but I get anxious about the work I have to do,
@@ -16,7 +19,7 @@ and other non-issues.
 This was not a problem when I could comfortably finish my work
 anyway. But I find myself with more work lately than I am used to,
 and I'm realizing that I need a sustainable way to organize and prioritize effectively
-and efficiently
+and efficiently. This.
 
 &mdash; [Amittai][amittai]
 
