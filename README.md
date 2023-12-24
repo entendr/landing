@@ -10,9 +10,6 @@ npm install
 
 # pnpm
 pnpm install
-
-# yarn
-yarn install
 ```
 
 ## Development Server
@@ -25,14 +22,23 @@ npm run dev
 
 # pnpm
 pnpm run dev
-
-# yarn
-yarn dev
 ```
 
 ## Production
 
 Build the application for production:
+
+### Option 1: Static Site (Recommended)
+
+```bash
+# npm
+npm run generate
+
+# pnpm
+pnpm run generate
+```
+
+### Option 2: Server-Side Rendered
 
 ```bash
 # npm
@@ -40,9 +46,6 @@ npm run build
 
 # pnpm
 pnpm run build
-
-# yarn
-yarn build
 ```
 
 Locally preview production build:
@@ -53,9 +56,6 @@ npm run preview
 
 # pnpm
 pnpm run preview
-
-# yarn
-yarn preview
 ```
 
 
