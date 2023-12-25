@@ -25,9 +25,10 @@ Often, this means tedious, repetitive work.
 how I do such things, better. For myself.
 Hopefully, for others too.
 
-I'm working on a few ideas.
+<!-- I'm working on a few ideas.
 Loop back for updates, or [reach out][contact]
-if you share similar experiences and/or would like to chat.
+if you share similar experiences and/or would like to chat. -->
 ::
 
 [contact]: https://amittai.studio
+ 

@@ -1,8 +1,8 @@
 ---
 date: "2023-05-17"
-title: Calendars and Meetings
+# title: Calendars and Meetings
 description: the troubles of life
-routeId: "first-idea"
+routeId: "four"
 ---
 
 # Systems, Not Goals
