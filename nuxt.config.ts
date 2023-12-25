@@ -32,11 +32,37 @@ export default defineNuxtConfig({
       ],
     },
   },
-  modules: [
-    "@nuxtjs/tailwindcss",
-    "@nuxt/content"
-  ],
+  modules: ["@nuxtjs/tailwindcss", "@nuxt/content", "@nuxt/image"],
   content: {
     // https://content.nuxtjs.org/api/configuration
+    highlight: {
+      theme: "github-dark",
+      preload: [
+        "bash",
+        "c",
+        "cpp",
+        "java",
+        "julia",
+        "python",
+        "haskell",
+        "hs",
+        "f#",
+        "vue",
+      ],
+    },
   },
+  image: {
+    screens: {
+      xs: 320,
+      sm: 640,
+      md: 768,
+      lg: 1024,
+      xl: 1280,
+      xxl: 1536,
+      "2xl": 1536,
+    },
+    format: ["avif", "webp"],
+    provider: "ipx",
+    ipx: {},
+  }
 })

@@ -27,7 +27,7 @@ const props = defineProps<{
         >
           <formatted-date
             :date="props.date"
-            class="text-2xs/4 font-medium text-gray-500 dark:text-white/50 xl:hidden"
+            class="text-2xs/4 font-medium text-white/50 xl:hidden"
           />
         </nuxt-link>
       </div>

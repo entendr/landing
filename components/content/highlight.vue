@@ -6,6 +6,6 @@
 
 <style scoped>
 span {
-  display: inline-block;
+  display: inline;
 }
 </style>

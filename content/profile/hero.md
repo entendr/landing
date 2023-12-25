@@ -5,7 +5,7 @@ title: entendr.
 
 ::div
 ---
-class: "prose prose-slate dark:prose-invert"
+class: "prose prose-invert"
 ---
 
 ::h1
@@ -16,19 +16,16 @@ living with intentionality. :br :highlight{class="font-bold"}[entendr.]
 ::
 
 People who experience anxiety have to be very intentional with their time.
-But&mdash;_**what does that mean?**_
-For me, it means fastidiously planning out my day,
-keeping inventory, and sticking to considered routines.
-Often, this means tedious, repetitive work.
 
-:highlight[entendr.] is my attempt to reimagine
-how I do such things, better. For myself.
-Hopefully, for others too.
+This means fastidiously planning out their day,
+establishing routines, and keeping inventory.  
+But this also means tedious and repetitive work
+planning and journaling.
+Wouldn't it be great to not have to do all such work manually?
 
-<!-- I'm working on a few ideas.
-Loop back for updates, or [reach out][contact]
-if you share similar experiences and/or would like to chat. -->
+:highlight[entendr.]{class="font-bold"} reimagines
+such workflows.
+
+**We'll be launching the first product early 2024.  
+More to come soon.**
 ::
-
-[contact]: https://amittai.studio
- 

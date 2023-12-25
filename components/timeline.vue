@@ -15,7 +15,7 @@
         >
           <path
             d="M0 0H6M0 8H6"
-            class="stroke-sky-900/20 dark:stroke-white/20 xl:stroke-white/20"
+            class="stroke-white/20 xl:stroke-white/20"
             fill="none"
           />
         </pattern>

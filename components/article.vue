@@ -15,7 +15,7 @@ const props = defineProps<{
       :id="props.id"
       :date="props.date"
     />
-    <content-wrapper class="prose prose-slate dark:prose-invert">
+    <content-wrapper class="prose prose-invert">
       <slot />
     </content-wrapper>
   </article>

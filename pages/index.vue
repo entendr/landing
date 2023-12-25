@@ -10,7 +10,7 @@ useHead({
 </script>
 
 <template>
-  <div class="flex min-h-full flex-col bg-white dark:bg-gray-950">
+  <div class="flex min-h-full flex-col bg-gray-950">
     <fixed-sidebar>
       <intro />
     </fixed-sidebar>
