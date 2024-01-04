@@ -18,7 +18,7 @@ to follow through.
 
 There are hundreds of products that offer to help,
 from scheduling apps such as [Motion][motion]
-to journaling apps such as [Tana][tana], [Obsidian][obsidian], and [Notion][notion],
+to journaling apps such as [Tana][tana], [Obsidian][obsidian], [Notion][notion],
 and others.
 [The most profound technologies are those that disappear][profound-technologies],
 yet these require tens, even hundreds of hours
@@ -31,4 +31,4 @@ the more you would spend _not doing_ your stuff, it would seem.
 [notion]:                 https://notion.so
 [motion]:                 https://www.usemotion.com
 [tana]:                   https://tana.inc
-[profound-technologies]:  https://www.infosys.com/insights/ai-automation/ambient-intelligence
+[profound-technologies]:  https://www.infosys.com/insights/ai-automation/ambient-intelligence.html
