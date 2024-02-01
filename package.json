@@ -28,7 +28,7 @@
     "eslint-plugin-nuxt": "^4.0.0",
     "husky": "^8.0.3",
     "sass": "^1.69.5",
-    "sass-loader": "^13.3.2"
+    "sass-loader": "^14.1.0"
   },
   "dependencies": {
     "@nuxt/content": "^2.10.0",
