@@ -25,7 +25,7 @@
               <span
                 class="absolute inset-0 -z-10 scale-75 rounded-lg bg-white/5 opacity-0 transition group-hover:scale-100 group-hover:opacity-100"
               />
-              made by&nbsp;<span class="self-baseline text-white">amittai</span>
+              created by&nbsp;<span class="self-baseline text-white">amittai</span>
             </a>
           </p>
         </div>
